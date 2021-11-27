@@ -1,6 +1,6 @@
-# Hello I'm waveciou 👀
+# Hello 👀
 
-My name is waveciou, I am a Front End developer from Taipei, Taiwan.
+I am a Front End developer from Taipei, Taiwan.
 
 ## Top Languages
 
