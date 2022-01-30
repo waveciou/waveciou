@@ -1,6 +1,8 @@
 # Hello World 👀
 
-My name is 丘惟夫, I am a Frontend developer from Taipei, Taiwan. I have 5 years experience of website development, and currently working at e-commerce company.
+My name is 丘惟夫, I am a Frontend developer from Taipei, Taiwan.
+
+I have 5 years experience of website development, and currently working at e-commerce company.
 
 ## How to reach me
 
