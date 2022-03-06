@@ -1,8 +1,8 @@
 ## 👀 #waveciou
 
-My name is 丘惟夫, I am a frontend developer from Taipei, Taiwan.
+My name is 丘惟夫, I am a frontend developer from Taiwan.
 
-I have 5 years experience of website development and currently working at e-commerce company. I keen on research CSS and JavaScript, and use them to create some funny projects. I think the frontend programer is not only engineer but also a creator. I hope I can use my skills to make the world a better place.
+I have 5 years experience of website development and currently working at e-commerce company in Taipei, Taiwan. I keen on research CSS and JavaScript, and use them to create some funny projects. I think the frontend programers are not only engineers but also creators. I hope I can use my skills to make the world a better place.
 
 ## 🔗 How to reach me
 
@@ -19,7 +19,7 @@ I have some experience of use these technology or tools for development.
 - JavaScript, TypeScript, jQuery
 - Vue, Vue Router, Vuex, Nuxt.js
 - React, React Router, Redux, Next.js, Gatsby.js
-- Webpack, Gulp, Jest
+- Vite, Webpack, Gulp, Jest
 
 ## 🚀 Side Projects
 
