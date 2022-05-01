@@ -4,11 +4,6 @@ My name is 丘惟夫, I am a frontend developer from Taiwan.
 
 I have 5 years experience of website development and currently working at e-commerce company in Taipei, Taiwan. I keen on research CSS and JavaScript, and use them to create some funny projects. I think the frontend programers are not only engineers but also creators. I hope I can use my skills to make the world a better place.
 
-## 🔗 How to reach me
-
-- waveciou@gmail.com
-- [Linkedin](https://www.linkedin.com/in/waveciou/)
-
 ## 📚 Languages & Frameworks
 
 I have some experience of use these technology or tools for development.
@@ -87,7 +82,8 @@ I have some experience of use these technology or tools for development.
 
 ## 🚀 Side Projects
 
-- [Text Encoder](https://github.com/waveciou/text-encoder)
+- [Encoder](https://github.com/waveciou/Encoder)
+- [Words Up](https://github.com/waveciou/WordsUp)
 - [Money Tracker](https://github.com/waveciou/MoneyTracker)
 - [Grid Drawer](https://github.com/waveciou/grid-drawer)
 - [CodePen](https://codepen.io/waveciou)
@@ -97,3 +93,8 @@ I have some experience of use these technology or tools for development.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waveciou&theme=dark&title_color=FFFFFF)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=waveciou&theme=dark&show_icons=true&icon_color=FFAA30&title_color=B0C4DE&text_color=FFFFFF&count_private=true)
+
+## 🔗 How to reach me
+
+- Email: waveciou@gmail.com
+- Linkedin: [https://www.linkedin.com/in/waveciou](https://www.linkedin.com/in/waveciou/)
