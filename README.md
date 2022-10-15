@@ -1,8 +1,10 @@
-## 👀 #waveciou
+## 👀 About
 
-My name is 丘惟夫, I am a frontend developer from Taiwan.
+My name is 丘惟夫 (waveciou) or you can call me Jeff, I am a frontend developer from Taiwan.
 
-I have 5 years experience of website development and currently working at e-commerce company in Taipei, Taiwan. I keen on research CSS and JavaScript, and use them to create some funny projects. I think the frontend programers are not only engineers but also creators. I hope I can use my skills to make the world a better place.
+I have 6 years+ experience of website development, and currently working at IoT technology company and responsible for maintaining with e-commerce platform website and developing new features. Familiar use HTML, CSS, JavaScript, TypeScript and morden JavaScript frameworks such as Vue.js and React.js.
+
+I keen on research CSS and JavaScript, and use them to create some funny projects. I think the frontend programers are not only engineers but also the creators. I hope I can use my skills to make the world a better place.
 
 ## 📚 Languages & Frameworks
 
