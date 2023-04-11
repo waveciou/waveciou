@@ -1,14 +1,14 @@
 ## 👀 About
 
-My name is 丘惟夫 (waveciou) or you can call me Jeff, I am a frontend developer from Taiwan.
+My name is 丘惟夫 (waveciou) or you can call me Jeff. I'm a frontend developer from Taiwan with 6+ years of experience in website development.
 
-I have 6 years+ experience of website development, and currently working at IoT technology company and responsible for maintaining with e-commerce platform website and developing new features. Familiar use HTML, CSS, JavaScript, TypeScript and morden JavaScript frameworks such as Vue.js and React.js.
+Currently, I'm working at an IoT technology company and responsible for maintaining e-commerce platform websites and developing new features. Familiar with using HTML, CSS, JavaScript, TypeScript and modern JavaScript frameworks such as Vue.js and React.js.
 
-I keen on research CSS and JavaScript, and use them to create some funny projects. I think the frontend programers are not only engineers but also the creators. I hope I can use my skills to make the world a better place.
+I'm keen on researching CSS and JavaScript and using them to create some fun projects. I believe that frontend programmers are not only engineers but also the creators. I hope to use my skills to make the world a better place.
 
 ## 📚 Languages & Frameworks
 
-I have some experience of use these technology or tools for development.
+I have some experience with using these technologies or tools for development.
 
 <a href="https://developer.mozilla.org/zh-TW/docs/Web/HTML" target="_blank" style="text-decoration:none;" rel="noreferrer" title="HTML5">
 <img width="40" height="40" src="https://user-images.githubusercontent.com/17502097/160254564-e43559c9-7d59-41ad-9edd-2717aba03a5f.svg" />
@@ -54,16 +54,8 @@ I have some experience of use these technology or tools for development.
 <img width="40" height="40" src="https://user-images.githubusercontent.com/17502097/159936116-79803c92-953b-47cb-9426-80e16d5cf887.svg" />
 </a>
 
-<a href="https://redux.js.org/" target="_blank" style="text-decoration:none;" rel="noreferrer" title="Redux">
-<img width="40" height="40" src="https://user-images.githubusercontent.com/17502097/159936128-99b568e1-9e71-4dee-b136-e8ba9aeeb979.svg" />
-</a>
-
 <a href="https://nextjs.org/" target="_blank" style="text-decoration:none;" rel="noreferrer" title="Next.js">
 <img width="40" height="40" src="https://user-images.githubusercontent.com/17502097/160254567-d1c83d6e-d41b-4a6f-86b9-dfc12f44210c.svg" />
-</a>
-
-<a href="https://www.gatsbyjs.com/" target="_blank" style="text-decoration:none;" rel="noreferrer" title="Gatsby.js">
-<img width="40" height="40" src="https://user-images.githubusercontent.com/17502097/160254301-f77fea89-1460-494b-bff9-cdb7d3c1122e.svg" />
 </a>
 
 <a href="https://vitejs.dev/" target="_blank" style="text-decoration:none;" rel="noreferrer" title="Vite.js">
