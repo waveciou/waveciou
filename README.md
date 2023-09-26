@@ -1,6 +1,7 @@
 ## 👀 About
 
-My name is 丘惟夫 (waveciou) or you can call me Jeff. I'm a frontend developer from Taiwan with 6+ years of experience in website development.
+My name is 丘惟夫 (waveciou) or you can call me Jeff.
+I'm a frontend developer from Taiwan with 6+ years of experience in website development.
 
 Currently, I'm working at an IoT technology company and responsible for maintaining e-commerce platform websites and developing new features. Familiar with using HTML, CSS, JavaScript, TypeScript and modern JavaScript frameworks such as Vue.js and React.js.
 
@@ -84,9 +85,9 @@ I have some experience with using these technologies or tools for development.
 
 ## 📦 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waveciou&theme=dark&title_color=FFFFFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waveciou&layout=compact&theme=dark&title_color=FFFFFF&text_color=FFFFFF)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=waveciou&theme=dark&show_icons=true&icon_color=FFAA30&title_color=B0C4DE&text_color=FFFFFF&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=waveciou&theme=dark&show_icons=true&icon_color=FFAA30&title_color=FFFFFF&text_color=FFFFFF&count_private=true)
 
 ## 🔗 How to reach me
 
