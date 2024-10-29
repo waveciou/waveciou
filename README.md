@@ -18,17 +18,19 @@ I believe that a frontend developer is not just an engineer but also a creator. 
 
 ## 🔗 How to reach me
 
-<a href="mailto:waveciou@gmail.com" title="waveciou@gmail.com" target="_blank" style="text-decoration:none;" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
-</a>
+<p>
+  <a href="mailto:waveciou@gmail.com" title="waveciou@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
+  </a>
 
-<a href="https://www.linkedin.com/in/waveciou" title="linkedin" target="_blank" style="text-decoration:none;" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
-</a>
+  <a href="https://www.linkedin.com/in/waveciou" title="linkedin">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  </a>
 
-<a href="https://codepen.io/waveciou" title="codepen" target="_blank" style="text-decoration:none;" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=codepen&theme=dark" />
-</a>
+  <a href="https://codepen.io/waveciou" title="codepen">
+    <img src="https://skillicons.dev/icons?i=codepen&theme=dark" />
+  </a>
+</p>
 
 ## 📦 GitHub Stats
 
