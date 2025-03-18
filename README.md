@@ -1,9 +1,9 @@
 ## 👀 About
 
 I'm a Frontend developer from Taiwan with 8+ years of experience in website development.<br/>
-Passionate about exploring CSS and JavaScript and using them to create fun projects.
+Passionate about exploring CSS & JavaScript and using them to create fun projects.
 
-I believe that a frontend developer is not just an engineer but also a creator.<br/>
+I believe that a frontend developer is not just an engineer but also a artist & creator.<br/>
 And I hope through my creations to make the world a better place.
 
 ## 📚 Skills
@@ -16,13 +16,13 @@ And I hope through my creations to make the world a better place.
 - [Words Up](https://github.com/waveciou/WordsUp)
 - [Money Tracker](https://github.com/waveciou/MoneyTracker)
 
-## 📦 GitHub Stats
+## 📦 GitHub stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waveciou&layout=compact&theme=dark&title_color=FFFFFF&text_color=FFFFFF)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=waveciou&theme=dark&show_icons=true&icon_color=FFAA30&title_color=FFFFFF&text_color=FFFFFF&count_private=true)
 
-## 🔗 Contact me
+## 🔗 Contact Me
 
 - Email: [waveciou@gmail.com](mailto:waveciou@gmail.com)
 - Linkedin: [https://www.linkedin.com/in/waveciou](https://www.linkedin.com/in/waveciou)
