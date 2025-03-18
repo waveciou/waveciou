@@ -22,7 +22,7 @@ And I hope through my creations to make the world a better place.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=waveciou&theme=dark&show_icons=true&icon_color=FFAA30&title_color=FFFFFF&text_color=FFFFFF&count_private=true)
 
-## 🔗 Contact Me
+## 🔗 Contact me
 
 - Email: [waveciou@gmail.com](mailto:waveciou@gmail.com)
 - Linkedin: [https://www.linkedin.com/in/waveciou](https://www.linkedin.com/in/waveciou)
