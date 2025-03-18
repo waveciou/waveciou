@@ -1,9 +1,9 @@
 ## 👀 About
 
-I'm a Frontend developer from Taiwan with 8+ years of experience in website development.
+I'm a Frontend developer from Taiwan with 8+ years of experience in website development.<br/>
 Passionate about exploring CSS and JavaScript and using them to create fun projects.
 
-I believe that a frontend developer is not just an engineer but also a creator.
+I believe that a frontend developer is not just an engineer but also a creator.<br/>
 And I hope through my creations to make the world a better place.
 
 ## 📚 Skills
@@ -25,5 +25,5 @@ And I hope through my creations to make the world a better place.
 ## 🔗 Contact me
 
 - Email: [waveciou@gmail.com](mailto:waveciou@gmail.com)
-- Linkedin: [waveciou](https://www.linkedin.com/in/waveciou)
-- Codepen: [waveciou](https://codepen.io/waveciou)
+- Linkedin: [https://www.linkedin.com/in/waveciou](https://www.linkedin.com/in/waveciou)
+- Codepen: [https://codepen.io/waveciou](https://codepen.io/waveciou)
